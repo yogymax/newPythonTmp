@@ -1,0 +1,69 @@
+1540273623883	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yogesh\\AppData\\Local\\Temp\\rust_mozprofile.pFTWNlVYirya"
+1540273637539	Marionette	INFO	Listening on port 55466
+1540273637977	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540273638067	Marionette	DEBUG	[6442450945] Frame script loaded
+1540273638114	Marionette	DEBUG	[6442450945] Frame script registered
+1540273639294	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540273640232	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540273645475	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://toolsqa.com/automation-practice-form/
+JavaScript error: http://20tvni1sjxyh352kld2lslvc.wpengine.netdna-cdn.com/wp-content/themes/dt-the7/js/above-the-fold.min.js?ver=3.8.1, line 1: TypeError: jQuery.browser is undefined
+JavaScript error: http://20tvni1sjxyh352kld2lslvc.wpengine.netdna-cdn.com/wp-content/themes/dt-the7/js/main.min.js?ver=3.8.1, line 7: TypeError: t.browser is undefined
+1540273647908	Marionette	DEBUG	[6442450945] Received DOM event unload for http://toolsqa.com/automation-practice-form/
+1540273648034	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1540273648036	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450965
+1540273648036	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540273648037	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450980
+1540273648038	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450978
+1540273648039	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450969
+1540273648039	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450953
+1540273648040	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450991
+1540273648042	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450989
+1540273648043	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450972
+1540273648044	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1540273648044	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450998
+1540273648045	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450996
+1540273648045	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450983
+1540273648046	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1540273648046	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450986
+1540273648047	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450959
+1540273648047	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450961
+1540273648048	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450963
+1540273648048	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450974
+1540273648049	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Parent 12144, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 103481540273651584	Marionette	INFO	Stopped listening on port 55466
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540273661904	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yogesh\\AppData\\Local\\Temp\\rust_mozprofile.muIVqKKyhj61"
+1540273667653	Marionette	INFO	Listening on port 55627
+1540273667945	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540273668004	Marionette	DEBUG	[6442450945] Frame script loaded
+1540273668009	Marionette	DEBUG	[6442450945] Frame script registered
+1540273668133	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540273668694	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540273673848	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://toolsqa.com/automation-practice-form/
+JavaScript error: http://20tvni1sjxyh352kld2lslvc.wpengine.netdna-cdn.com/wp-content/themes/dt-the7/js/above-the-fold.min.js?ver=3.8.1, line 1: TypeError: jQuery.browser is undefined
+JavaScript error: http://20tvni1sjxyh352kld2lslvc.wpengine.netdna-cdn.com/wp-content/themes/dt-the7/js/main.min.js?ver=3.8.1, line 7: TypeError: t.browser is undefined
+1540273674678	Marionette	DEBUG	[6442450945] Received DOM event unload for http://toolsqa.com/automation-practice-form/
+[Parent 9400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540273674786	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1540273674787	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450965
+1540273674788	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540273674788	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450969
+1540273674789	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450953
+1540273674791	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450974
+1540273674792	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1540273674792	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1540273674793	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450959
+1540273674798	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450961
+1540273674800	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450963
+1540273674803	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450972
+1540273674804	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Parent 9400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540273676174	Marionette	INFO	Stopped listening on port 55627
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

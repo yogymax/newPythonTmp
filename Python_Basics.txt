@@ -1,0 +1,132 @@
+
+
+	Python Installed -- c:/appdata/python3/----mysql2.3.4
+												excel--2.2.1
+												python3 --
+					
+	
+	Excelread/Database -- libraries
+	
+	virtualEnv --Flipkart/----- Mysql
+				 Excel
+	D:PythonProj/flipkart/--
+	
+	VirtaulEnv -- Mysql	
+				Excel
+	D:PythonProj/Amazon/--
+	
+	
+	Demo --A
+			B 
+				C
+				D --d1
+				R
+				
+				
+
+
+	
+	
+OOP	
+	Class
+	Object
+	Abstraction
+	Polymorphism
+	Inheritance
+	Encapsulation
+	
+	
+	Real World				Programming
+	Sacha/Structure			class  -- template/blueprint/Structure -- UD/SD
+	Product					Object -- many
+	Properties				Varibles  -- any specific name given to mem loc
+	Operations/behvrs		Methods -- set of lines together -- reuse
+	
+	Abstraction -- showing only essential details to the end user where as hiding implemetation part -- mobile/laptop/fan
+		Abstract class
+		Inteface
+	
+	Polymorphism -- One thing can be done bt many ways -- 
+		Method Overloading -- cTP -- early loading/early biding/eagar loading
+		Method Overridding -- runtime polypsrm// lazy --
+	
+	Inheritance -inheriting the properties of parent into child--except private properties
+		A  - B  -- single
+		A -- B --C -- multilevel
+		
+		A -- B  -- Hierachical
+		|
+		|
+		C
+
+		
+with the help of classes not possibel but thru interface you can achieve --diamond problem
+Multiple
+		B      C
+		    |
+			|
+			A
+			
+	Hybrid		
+			
+			A
+			
+		B		C
+		
+			D
+			
+		
+		
+		
+	Encapsulation -- Wrapping of data and method together in to signle unit
+		class - object
+		
+	Encapsulation data hiding
+	Encapsulation = abstraction + data hiding
+	
+	
+	
+	
+	
+	What is and why > Virtaul env in python3
+	
+	Make sure python3 is installed and change env path
+	it should point to pip
+	
+	> mkdir demo 
+	>cd demo
+	> pip install virtualenv
+	>virtualenv myappenv
+	>cd myappenv
+	>Scripts\activate
+	(myappenv) > pip install pymysql
+	
+	
+	Variables--
+	
+	
+
+	3.6.1
+	
+
+	Major -- 
+	Minor --
+	Patch --
+	
+	
+emp	
+	EmpContractInfo -- What
+	EmpServiceImpl  - How
+	EmpInfo  -- Structure
+	TestEmpService -- Test
+	
+	
+	
+	
+		
+		
+		
+	
+	
+	
+	
